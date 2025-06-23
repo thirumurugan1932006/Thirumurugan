@@ -1,0 +1,9 @@
+streamlit
+sqlite3
+spacy
+sentence-transformers
+openai
+requests
+beautifulsoup4
+bcrypt
+
